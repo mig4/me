@@ -1,0 +1,35 @@
+baseurl = "/"
+languageCode = "en-gb"
+theme = "hello-friend-ng"
+
+[params]
+  description = "Michael Gliwinski's homepage"
+
+  [params.logo]
+    logoText = "cat mig4.md"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/mig4/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/mig4/"
+
+  [[params.social]]
+    name = "gitlab"
+    url = "https://gitlab.com/michael.gliwinski"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url = "https://stackoverflow.com/story/mig4"
+
+[languages]
+  [languages.en]
+    title = "Michael Gliwinski"
+    homeSubtitle = "Software Engineer"
+    subtitle = "About me"
+    keywords = ""
+    copyright = "mig4"
+    readOtherPosts = "Read other posts"
