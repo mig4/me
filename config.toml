@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mig4.github.io/me/"
 languageCode = "en-gb"
 theme = "hello-friend-ng"
 
