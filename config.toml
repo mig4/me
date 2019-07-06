@@ -19,7 +19,7 @@ theme = "hello-friend-ng"
 
   [[params.social]]
     name = "gitlab"
-    url = "https://gitlab.com/michael.gliwinski"
+    url = "https://gitlab.com/mig4"
 
   [[params.social]]
     name = "stackoverflow"
